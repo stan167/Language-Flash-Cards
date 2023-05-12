@@ -15,7 +15,7 @@ struct ContentView: View {
     @State private var englishPhrase = ""
     @State private var spanishPhrase = ""
     @State private var hotelPhrases = [
-            "Good morning, Plaza hotel, tell me? (how (can i help2))": "Buenos días, Hotel Plaza, ¿digame?",
+            "Good morning, Plaza hotel, how can I help?": "Buenos días, Hotel Plaza, ¿digame?",
             "For how many nights?": "Para cuántas noches?",
             "I would like to book": "Quisiera reservar",
             "a single room": "una habitación individual",
